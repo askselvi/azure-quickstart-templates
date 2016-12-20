@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "ghuser"
+      "value": "umas1"
     },
     "adminPassword": {
       "value": "Admin123$"
